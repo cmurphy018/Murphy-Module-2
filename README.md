@@ -28,4 +28,3 @@ View the live project here: [My Favorite Art Pieces](https://murphy-module-2.net
     "imageURL": "images/the-kiss.jpg"
   }
 ]
----
