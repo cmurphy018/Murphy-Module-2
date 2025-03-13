@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "The Kiss",
+        "artist": "Gustav Klimt",
+        "place": "Vienna, Austria",
+        "year": 1908,
+        "imageURL": "images/the-kiss.jpg"
+    },
+    {
+        "id": 2,
+        "title": "The Great Wave Off Kanagawa",
+        "artist": "Hokusai",
+        "place": "Edo (Tokyo), Japan",
+        "year": 1831,
+        "imageURL": "images/great-wave.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Blue Nude",
+        "artist": "Pablo Picasso",
+        "place": "Paris, France",
+        "year": 1902,
+        "imageURL": "images/blue-nude.jpg"
+    }
+]
